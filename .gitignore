@@ -90,9 +90,3 @@ typings/
 
 # Electron-Forge
 out/
-
-# VS-CODE
-.vscode/
-
-# DOC
-doc/
